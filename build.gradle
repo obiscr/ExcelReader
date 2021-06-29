@@ -43,5 +43,4 @@ buildSearchableOptions {
 patchPluginXml {
   version = project.version
   sinceBuild = pluginSinceBuild
-  untilBuild = pluginUntilBuild
 }
