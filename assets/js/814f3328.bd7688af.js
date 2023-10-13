@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"ExcelReader 2022.1.1 has now been released","permalink":"/blog/Release-2022.1.1"},{"title":"Announcement on version naming","permalink":"/blog/announcement-on-version-naming"}]}')}}]);
